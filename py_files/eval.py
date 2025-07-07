@@ -8,4 +8,3 @@ print(s1,type(s1))
 age=eval(input('请输入年龄:'))
 print(age,type(age))
 
-test
